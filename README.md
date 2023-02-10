@@ -61,7 +61,7 @@ I created a webpage for this project using the framework flask. This site has be
 All of my works  for this interface in : https://github.com/AklimaRimi/Product_Review_Classifier/tree/main
 
 
-https://github.com/AklimaRimi/Product_Review_Classifier/blob/hugging_face/images/flask.png
+![](https://github.com/AklimaRimi/Product_Review_Classifier/blob/hugging_face/images/flask.png)
 
 
 
