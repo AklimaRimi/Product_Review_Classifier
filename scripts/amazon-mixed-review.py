@@ -19,6 +19,8 @@ for page in range(1,45):
         for i in text:
             print(i.text)
             data.append([i.text,0])
+#             data.append([i.text,1])
+            
     
         path = driver.find_element(By.XPATH,"//li[contains(@class,'a-last')]").find_element(By.TAG_NAME,'a').get_attribute('href')
     except:
